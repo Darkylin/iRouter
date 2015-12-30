@@ -1,0 +1,1 @@
+{"version":3,"file":"iRouter.js","sources":["lib/router.js","main.js"],"sourcesContent":["function Router(){\n    alert(23)\n}\n\nexport default Router;","import Router from './lib/router.js'\nif(module){\n    module.exports = Router;\n}"],"names":[],"mappings":"AAAA,SAAS,MAAM,EAAE;IACb,KAAK,CAAC,EAAE;;;ACAZ,GAAG,MAAM,CAAC;IACN,MAAM,CAAC,OAAO,GAAG,MAAM;","sourceRoot":"/source/"}
